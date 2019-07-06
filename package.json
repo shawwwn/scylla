@@ -36,7 +36,7 @@
     "@types/react-virtualized": "^9.18.3",
     "cross-env": "^5.1.4",
     "parcel-bundler": "^1.7.1",
-    "typescript": "^2.8.3"
+    "typescript": "^2.9.2"
   },
   "dependencies": {
     "axios": "^0.18.0",
@@ -45,8 +45,8 @@
     "moment": "^2.22.1",
     "node-sass": "^4.9.0",
     "query-string": "^6.1.0",
-    "react": "^15.3.0 || ^16.0.0-alpha",
-    "react-dom": "^15.3.0 || ^16.0.0-alpha",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5",
     "react-router-dom": "^4.2.2",
     "react-simple-maps": "^0.12.1",
     "react-tooltip": "^3.10.0",
